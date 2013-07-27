@@ -10,5 +10,3 @@ This issue also happens in the old Gmail client in my phone, the new design of G
 ![image](http://bcs.duapp.com/heqiu-bucket/data/attachment/forum/201307/27/183052f1imrvvrp3fxfxxi.png)
 
 You can clearly find out that the button below changed its position.
-
-You can download demo apk [here](http://bbs.zjuheqiu.org/forum.php?mod=attachment&aid=NDN8ZWJkNTYyMjJ8MTM3NDkyMTI0NHwyfDM0)
