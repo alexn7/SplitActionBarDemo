@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/refresh"
+            android:icon="@drawable/ic_action_refresh"
+            android:showAsAction="ifRoom"/>
+    <item
+            android:icon="@drawable/ic_action_search"
+            android:showAsAction="ifRoom"
+            android:title="上一页"/>
+    <item
+            android:icon="@drawable/ic_action_search"
+            android:showAsAction="ifRoom"
+            android:title="回复"/>
+    <item
+            android:icon="@drawable/ic_action_search"
+            android:showAsAction="ifRoom"
+            android:title="下一页"/>
+    <item
+            android:icon="@drawable/ic_action_search"
+            android:showAsAction="ifRoom"/>
+    <item
+            android:icon="@drawable/ic_action_search"
+            android:showAsAction="ifRoom"
+            android:title="显示图片"/>
+    <item
+            android:icon="@drawable/ic_action_search"
+            android:showAsAction="ifRoom"/>
+
+</menu>
